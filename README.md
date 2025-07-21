@@ -87,4 +87,7 @@ I’m a passionate AI/ML engineer with hands-on experience in:
 
 🔗 [Visit my GitHub Profile](https://github.com/Umair86450)  
 
+---
+image to solve the easily 
 
+![Neural Network from scratch](Neural_Network_scratch_Image.jpg)
